@@ -1,4 +1,4 @@
-# 2511LNA
+# LNA
 Measurement datas of LNA
 This project contains two parts of measured data:
 1. S_parameters of LNA and the loss of input wires at PCB.
